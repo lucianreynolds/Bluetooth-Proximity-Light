@@ -104,4 +104,4 @@ while True:
 
 
     rssi_prev1 = rssi
-    rssi_prev2 = rssi_prev1
+    rssi_prev2 = rssi_prev1 
